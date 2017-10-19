@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "authors": [
+    "Tomek Lis <listomek307@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
